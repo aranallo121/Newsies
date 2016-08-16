@@ -1,0 +1,73 @@
+*{
+    border: 0px solid red;
+}
+
+html {
+    background-color: whitesmoke;
+}
+
+hr {
+    border-top: 5px double #8c8b8b;
+}
+
+.in_article {
+    border-top: 1px solid #8c8b8b;
+}
+
+h1 {
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+	font-size: 55px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 35px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-family: serif;
+    
+}
+
+img {
+    display: inline-block;
+}
+
+p {
+    text-align: justify;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+h5 {
+    font-size: 12px;
+}
+
+#footer_filed {
+    font-size: 12px;
+    font-weight: 900   
+}
+
+#column1 {
+    float:left;
+    width: 29%;
+    margin-right:2%
+}
+
+#column2 {
+    float:left;
+    width: 35%;
+}
+
+#monkey {
+    column-count: 2;
+}
+
+#inmate {
+    width: 45;
+    float:left;
+}
